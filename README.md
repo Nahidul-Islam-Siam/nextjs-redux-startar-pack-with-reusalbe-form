@@ -21,7 +21,7 @@ A powerful, opinionated starter kit for building modern Next.js applications wit
 Clone the project
 
 ```bash
-  git clone https://github.com/merajfaizan/nextjs-redux-startar-pack-with-reusalbe-form.git
+  git clone https://github.com/Nahidul-Islam-Siam/nextjs-redux-startar-pack-with-reusalbe-form.git
 ```
 
 Go to the project directory
